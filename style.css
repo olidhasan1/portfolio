@@ -1,0 +1,59 @@
+body{
+    
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.small{
+    margin-top: 20px;
+}
+.color-2022{
+    color: orange;
+}
+.center-2022{
+    text-align: center;
+}
+
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 25px;
+    border-radius: 10px;
+    box-shadow: 10px 10px  40px gray;
+}
+#wep-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
